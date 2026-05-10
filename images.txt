@@ -5,4 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #测试
-python:alpine3.19
+#python:alpine3.19
+nginx:1.25.3
