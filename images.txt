@@ -11,7 +11,7 @@ redis:6.0.8
 ubuntu
 registry
 tomcat
-tomcat8-jdk8
+billygoo/tomcat8-jdk8
 mysql:5.7
 
 
